@@ -1,0 +1,31 @@
+{
+    "description": "GameItems - Tyre",
+    "external_url": "https://ibriz.ai/",
+    "image": "https://www.shutterstock.com/image-vector/tire-cartoon-vector-illustration-hand-drawn-436160047",
+    "name": "Tyre",
+    "attributes":[
+        {
+          "trait_type": "Width[mm]",
+          "value": "205"
+        },
+        {
+          "trait_type": "Wheel Rim dia[inch]",
+          "value": "15"
+        },
+        {
+            "trait_type": "Construction",
+            "value": "R"
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Aspect Ratio",
+          "value": "65"
+        },
+        {
+          "display_type": "number", 
+          "trait_type": "Generation", 
+          "value": 2
+        }
+    ]
+}
+  

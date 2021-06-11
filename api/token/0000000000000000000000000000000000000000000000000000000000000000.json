@@ -1,6 +1,29 @@
 {
-    "description": "GameItems - Gold",
-    "external_url": "https://forum.openzeppelin.com",
-    "image": "https://openmoji.org/data/color/svg/1FA99.svg",
-    "name": "Gold"
+    "description": "F1 racing car for your game",
+    "external_url": "https://ibriz.ai/",
+    "image": "https://openmoji.org/data/color/svg/1F3CE.svg",
+    "name": "Car",
+    "attributes":[
+      {
+        "trait_type": "Manufacturer",
+        "value": "Ibriz"
+      },
+      {
+        "trait_type": "Model",
+        "value": "Mocha"
+      },
+      {
+          "trait_type": "Color",
+          "value": "Red"
+      },
+      {
+        "trait_type": "Style",
+        "value": "Roadster"
+      },
+      {
+        "display_type": "number", 
+        "trait_type": "Generation", 
+        "value": 2
+      }
+    ]
   }
