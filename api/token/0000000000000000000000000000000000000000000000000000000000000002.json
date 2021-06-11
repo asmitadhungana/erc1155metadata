@@ -1,8 +1,8 @@
 {
-    "description": "GameItems - Tyre",
+    "description": "Grizzly tyre for your racing car!",
     "external_url": "https://ibriz.ai/",
-    "image": "https://www.shutterstock.com/image-vector/tire-cartoon-vector-illustration-hand-drawn-436160047",
-    "name": "Tyre",
+    "image": "https://i.dlpng.com/static/png/6645032_preview.png",
+    "name": "Grizzly Tyre",
     "attributes":[
         {
           "trait_type": "Width[mm]",
